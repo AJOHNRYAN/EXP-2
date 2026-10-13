@@ -54,7 +54,6 @@ Tabulation for Load Test:
 <img width="1490" height="810" alt="WhatsApp Image 2026-10-13 at 7 34 17 PM" src="https://github.com/user-attachments/assets/447cb381-e791-462e-8099-7f46a77a740f" />
 
 Model graph:
-
 Open Circuit Characteristics
 <img width="1580" height="816" alt="WhatsApp Image 2026-10-13 at 7 34 08 PM" src="https://github.com/user-attachments/assets/e0a72b6f-2190-4a5b-9494-2ddc0e2a8bfb" />
 Load Characteristics
