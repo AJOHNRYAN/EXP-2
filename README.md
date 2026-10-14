@@ -65,7 +65,7 @@ Open Circuit Characteristics
 
 <img width="515" height="218" alt="WhatsApp Image 2026-10-14 at 4 15 49 PM" src="https://github.com/user-attachments/assets/f82b79d1-ded1-42fc-8e75-a2e1c9a69172" />
 
-
+ 
 
 Load Characteristics
 
