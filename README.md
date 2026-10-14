@@ -60,10 +60,10 @@ Tabulation for Open Circuit Test
 Model graph:
 
 
+<img width="1600" height="493" alt="image" src="https://github.com/user-attachments/assets/31997742-793a-46a6-9bc0-87e00d2be683" />
 
 
 
-<img width="515" height="218" alt="image" src="https://github.com/user-attachments/assets/f2bfab58-d066-4b48-bed9-62c1cc3740e9" />
 
 
 Calculation
@@ -81,8 +81,8 @@ Tabulation for load Test
 
 Model graph
 
+<img width="515" height="218" alt="image" src="https://github.com/user-attachments/assets/f2bfab58-d066-4b48-bed9-62c1cc3740e9" />
 
-<img width="1600" height="493" alt="image" src="https://github.com/user-attachments/assets/31997742-793a-46a6-9bc0-87e00d2be683" />
 
 
 
