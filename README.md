@@ -58,7 +58,7 @@ Tabulation for Open Circuit Test
 
 
 Model graph:
-Open Circuit Characteristics 
+
 
 
 
@@ -72,17 +72,24 @@ Calculation
 <img width="238" height="160" alt="image" src="https://github.com/user-attachments/assets/c1cb8503-d758-433a-be90-d617116a26ee" />
 
 
-Magnetisation Characteristics of DC Shunt Generator.
+Magnetisation load Characteristics
 
 
+Tabulation for load Test
+
+<img width="738" height="433" alt="image" src="https://github.com/user-attachments/assets/c9ede5dd-cdf3-4045-a3cb-0d4af005f06f" />
 
 Model graph
 
 
+<img width="1600" height="493" alt="image" src="https://github.com/user-attachments/assets/31997742-793a-46a6-9bc0-87e00d2be683" />
 
 
 
 Calculation
+
+
+<img width="220" height="206" alt="image" src="https://github.com/user-attachments/assets/77ed7d31-bcb5-41eb-9fce-edfd3f71d4f9" />
 
 
 
