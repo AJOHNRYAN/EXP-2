@@ -72,10 +72,10 @@ Calculation
 <img width="238" height="160" alt="image" src="https://github.com/user-attachments/assets/c1cb8503-d758-433a-be90-d617116a26ee" />
 
 
-Magnetisation open Characteristics
+Magnetisation load Characteristics
 
 
-Tabulation for open Test
+Tabulation for load Test
 
 <img width="738" height="433" alt="image" src="https://github.com/user-attachments/assets/c9ede5dd-cdf3-4045-a3cb-0d4af005f06f" />
 
