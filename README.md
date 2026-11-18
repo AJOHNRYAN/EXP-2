@@ -47,9 +47,21 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
+Tabulation for open Test
+
+<img width="738" height="433" alt="image" src="https://github.com/user-attachments/assets/c9ede5dd-cdf3-4045-a3cb-0d4af005f06f" />
+
+Model graph
+
+<img width="515" height="218" alt="image" src="https://github.com/user-attachments/assets/f2bfab58-d066-4b48-bed9-62c1cc3740e9" />
+
+Calculation
+
+<img width="220" height="206" alt="image" src="https://github.com/user-attachments/assets/77ed7d31-bcb5-41eb-9fce-edfd3f71d4f9" />
+
+Magnetisation of load Characteristics:
+
 Tabulation for load Circuit Test
-
-
 
 
 
@@ -70,27 +82,6 @@ Calculation
 
 
 <img width="238" height="160" alt="image" src="https://github.com/user-attachments/assets/c1cb8503-d758-433a-be90-d617116a26ee" />
-
-
-Magnetisation open Characteristics
-
-
-Tabulation for open Test
-
-<img width="738" height="433" alt="image" src="https://github.com/user-attachments/assets/c9ede5dd-cdf3-4045-a3cb-0d4af005f06f" />
-
-Model graph
-
-<img width="515" height="218" alt="image" src="https://github.com/user-attachments/assets/f2bfab58-d066-4b48-bed9-62c1cc3740e9" />
-
-
-
-
-Calculation
-
-
-<img width="220" height="206" alt="image" src="https://github.com/user-attachments/assets/77ed7d31-bcb5-41eb-9fce-edfd3f71d4f9" />
-
 
 
 
